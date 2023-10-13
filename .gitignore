@@ -1,0 +1,10 @@
+dist/
+docker/.data/
+node_modules/
+.idea/
+duna-application.iml
+localhost.pem
+localhost-key.pem
+tslint.json
+.DS_Store
+.env
